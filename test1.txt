@@ -1,0 +1,7 @@
+1.what is repository?and how is it diff from a branch?
+ans: The definition of a repository is a place where things are stored for safe keeping, or where there is an ample supply of something, or a person or thing with a lot of information about something.
+A repository is your whole project (directories and files) that you clone on your computer. A branch is a version of your repository, or in other words, an independent line of development. A repository can contain multiple branches, which means there are multiple versions of the repository.
+
+
+2.what is the difference btw rebase and git merge?
+ans: Rebasing is a process to reapply commits on top of another base trip. 
