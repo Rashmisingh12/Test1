@@ -4,4 +4,7 @@ A repository is your whole project (directories and files) that you clone on you
 
 
 2.what is the difference btw rebase and git merge?
-ans: Rebasing is a process to reapply commits on top of another base trip. 
+ans: Rebasing is a process to reapply commits on top of another base trip. it is used to apply a sequence of commits from distinct branches into a final commit.it is an alternative of git merge command.
+Git merging combines sequences of commits into one unified history of commits. There are two main ways Git will merge: Fast Forward and Three way. Git can automatically merge commits unless there are changes that conflict in both commit sequences.
+
+ 
